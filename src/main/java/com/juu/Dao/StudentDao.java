@@ -13,7 +13,7 @@ public class StudentDao {
     private static Map<Integer, Student> students = new HashMap<>();
 
     static {
-        students.put(1, new Student(1, "Bob", "wf"));
+        students.put(1, new Student(1, "Booob", "wf"));
         students.put(2, new Student(2, "Mike", "polish"));
         students.put(3, new Student(3, "Kate", "math"));
     }
